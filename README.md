@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tyler Moore
+- 👀 I’m interested in fishing, sports and technology
+- 🌱 I’m currently learning software development in particular JavaScript
+- 💞️ I’m looking to collaborate on any projects that will help me develop my coding skills. 
