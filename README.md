@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tyler Moore
-- 👀 I’m interested in fishing, sports and technology
-- 🌱 I’m currently learning software development in particular JavaScript
+- 👀 I’m interested in crypto, technology and golf
+- 🌱 I’m currently learning front end software development
 - 💞️ I’m looking to collaborate on any projects that will help me develop my coding skills. 
