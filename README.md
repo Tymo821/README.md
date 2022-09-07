@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Tyler Moore
-- 👀 I’m interested in crypto, technology and golf
-- 🌱 I’m currently learning front end software development
-- 💞️ I’m looking to collaborate on any projects that will help me develop my coding skills. 
+- 👀 I’m interested in technology, fantasy football and golf
+- 🌱 I’m currently studying full-stack software development at Georgia Tech
+- 💞️ I’m looking to collaborate on any projects that will help me develop my coding skills.
